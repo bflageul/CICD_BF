@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "sRes0cm89D2S2SySWXFYlNMshMVSV1I9/FNLukVkTAF4JlpsilAQKaweYUQqnaE1KUSg311nFHPisons/WBDEQ==",
+  "success": true,
+  "projectFilePath": "D:\\3_GIT_PROJECTS\\1_CESI\\4_COURS_CI_CD\\CICD_BF\\src\\Addition_CICD\\Addition_CICD\\Addition_CICD.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Benjamin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.16\\microsoft.netcore.app.host.win-x64.5.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

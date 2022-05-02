@@ -1,0 +1,16 @@
+D:\3_GIT_PROJECTS\1_CESI\4_COURS_CI_CD\CICD_BF\src\Addition_CICD\Addition_CICD\bin\Debug\net5.0\Addition_CICD.exe
+D:\3_GIT_PROJECTS\1_CESI\4_COURS_CI_CD\CICD_BF\src\Addition_CICD\Addition_CICD\bin\Debug\net5.0\Addition_CICD.deps.json
+D:\3_GIT_PROJECTS\1_CESI\4_COURS_CI_CD\CICD_BF\src\Addition_CICD\Addition_CICD\bin\Debug\net5.0\Addition_CICD.runtimeconfig.json
+D:\3_GIT_PROJECTS\1_CESI\4_COURS_CI_CD\CICD_BF\src\Addition_CICD\Addition_CICD\bin\Debug\net5.0\Addition_CICD.runtimeconfig.dev.json
+D:\3_GIT_PROJECTS\1_CESI\4_COURS_CI_CD\CICD_BF\src\Addition_CICD\Addition_CICD\bin\Debug\net5.0\Addition_CICD.dll
+D:\3_GIT_PROJECTS\1_CESI\4_COURS_CI_CD\CICD_BF\src\Addition_CICD\Addition_CICD\bin\Debug\net5.0\Addition_CICD.pdb
+D:\3_GIT_PROJECTS\1_CESI\4_COURS_CI_CD\CICD_BF\src\Addition_CICD\Addition_CICD\obj\Debug\net5.0\Addition_CICD.csproj.AssemblyReference.cache
+D:\3_GIT_PROJECTS\1_CESI\4_COURS_CI_CD\CICD_BF\src\Addition_CICD\Addition_CICD\obj\Debug\net5.0\Addition_CICD.GeneratedMSBuildEditorConfig.editorconfig
+D:\3_GIT_PROJECTS\1_CESI\4_COURS_CI_CD\CICD_BF\src\Addition_CICD\Addition_CICD\obj\Debug\net5.0\Addition_CICD.AssemblyInfoInputs.cache
+D:\3_GIT_PROJECTS\1_CESI\4_COURS_CI_CD\CICD_BF\src\Addition_CICD\Addition_CICD\obj\Debug\net5.0\Addition_CICD.AssemblyInfo.cs
+D:\3_GIT_PROJECTS\1_CESI\4_COURS_CI_CD\CICD_BF\src\Addition_CICD\Addition_CICD\obj\Debug\net5.0\Addition_CICD.csproj.CoreCompileInputs.cache
+D:\3_GIT_PROJECTS\1_CESI\4_COURS_CI_CD\CICD_BF\src\Addition_CICD\Addition_CICD\obj\Debug\net5.0\Addition_CICD.dll
+D:\3_GIT_PROJECTS\1_CESI\4_COURS_CI_CD\CICD_BF\src\Addition_CICD\Addition_CICD\obj\Debug\net5.0\refint\Addition_CICD.dll
+D:\3_GIT_PROJECTS\1_CESI\4_COURS_CI_CD\CICD_BF\src\Addition_CICD\Addition_CICD\obj\Debug\net5.0\Addition_CICD.pdb
+D:\3_GIT_PROJECTS\1_CESI\4_COURS_CI_CD\CICD_BF\src\Addition_CICD\Addition_CICD\obj\Debug\net5.0\Addition_CICD.genruntimeconfig.cache
+D:\3_GIT_PROJECTS\1_CESI\4_COURS_CI_CD\CICD_BF\src\Addition_CICD\Addition_CICD\obj\Debug\net5.0\ref\Addition_CICD.dll
